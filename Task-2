@@ -1,0 +1,105 @@
+Part A — Theory (Short Questions)
+1.Nine Pillars Understanding
+A. Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks
+better for your growth as a system architect?
+
+AI Development Agents 🤖 repetitive setup tasks aur boilerplate code ko khud handle kar lete hain, jis se Architect ki
+zehni salahiyat (cognitive capacity) low-level coding se azaad ho jati hai. Yeh bachaya gaya waqt aur energy sirf system design,
+microservices ki integration, security planning, aur scalability jaisi aala-satah (high-level) ki strategic planning par
+markooz hota hai. Is tarah developer ka role code writer se system architect/orchestrator mein tabdeel ho jata hai.
+
+Explain how the Nine Pillars of AIDD help a developer grow into an M-Shaped
+Developer.
+Nine Pillars ⚙️ aik integrated system hai jo developer ki maharaton (skills) ke darmiyan knowledge gaps ko purr karta hai.
+
+AI as a Bridge 🌉: Nine Pillars mein shamil AI Development Agents aur AI CLI, developer ko woh tasks automate karke dete hain jismein
+unki gehri maharat nahi hoti (maslan, ek software developer ko cloud deployment ka complex code likhna).
+
+Deep Skills in Multiple Domains 📈: AI ka sahara lekar, developer raw coding ke bajaye system design aur specifications par
+tawajjo deta hai. Is tarah woh kam waqt mein 2-4 aapas mein milne walay (related) domains mein gehri maharat (deep skills) hasil kar 
+leta hai, jo usay M-Shaped Developer banata hai.
+
+2 .Vibe Coding vs Specification-Driven Development
+    Why does Vibe Coding usually create problems after one week?
+      Design Inconsistency aur Adhura Maqsad (Incoherent Design) 🧠:
+     Kyunki koi blueprint nahi hota, code ki architecture har din developer ki mood ya zehni thakan par depend karti hai.
+     Is se mukhtalif files aur functions mein inconsistent patterns paida hotay hain. Ek hafte baad, developer khud bhool jata hai
+     ke usne koi khaas cheez kyun aur kis tarah implement ki thi.
+     Maintainability ka Khatma (Poor Maintainability) 🛠️:
+    Jab code mein wazeh maqsad (clear intent) record nahi hota, toh usay theek karna (debugging) ya usmein
+     tabdeeli karna bohot mushkil ho jata hai.
+   Dusre developers (aur aap khud bhi) ko code ka maqsad samajhne mein zyadah waqt lagta hai, aur
+     choti tabdeeli bhi bade masle paida kar sakti hai.
+  Architecture ki Tosee' (Extensibility Issue) 🚧:
+Jab system ka koi mustaqil aur mustaqbil-saz (future-proof) design nahi hota, toh naye features add karte waqt ya
+system ko scale karte waqt, aapko aksar purane code ko break karna padta hai. Is wajah se, aage chal kar system ko
+extend karna boobh (burden) ban jata hai.
+
+How would Specification-Driven Development prevent those problems?
+Specification-Driven Development (SDD) Vibe Coding se paida hone walay tamam maslon (inconsistency, poor
+maintainability) ko rokta hai kyunki yeh Amal Shuru karne se Pehle Maqsad (Intent) ki Wazahat ko yakeeni banata hai.
+Formal Blueprint aur Maqsad 📝:  SDD mein, code likhne se pehle wazeh, qabil-e-amal (executable) specifications tayyar ki jati hain. Yeh specification ek 
+formal blueprint ka kaam karti hai aur insani maqsad (human intent) ko record karti hai. Is tarah, architecture kabhi bhi
+developer ki "mood" par depend nahi karta.
+Consistency aur Extensibility ✅:Yeh specifications AI Development Agents ko seedhe taur par hidayat deti hain. Agent hamesha
+spec ke mutabiq consistent code generate karte hain. Choonke har function ka maqsad record shuda hota hai, isliye system ko
+long-term maintain karna aur usmein naye features aasani se shamil (easily extend) karna mumkin ho jata hai.
+
+3. Architecture Thinking
+How does architecture-first thinking change the role of a developer in AIDD?
+Pehle developer sirf code likhta tha.
+Ab wo system design karta hai — AI ko batata hai ki kya banani hai, kaise connect hogi layers, kahan agent kaam karega.
+Code generate karne ka kaam AI karta hai, developer sochta hai: “Kyun? Kaise? Kiska saath?”
+Ye change coder → architect ka hai.
+Explain why developers must think in layers and systems instead of raw code.
+Raw code mein sochne se sab kuch ghanta jata hai — logic, UI, config, agents sab ek saath mil jate hain. Aik choti change sab tod deti hai.
+
+📁Part C — Multiple Choice Questions
+1. What is the main purpose of Spec-Driven Development?
+A. Make coding faster
+B. Clear requirements before coding begins
+C. Remove developers
+D. Avoid documentation
+  Correct Ans B
+2. What is the biggest mindset shift in AI-Driven Development?
+A. Writing more code manually
+B. Thinking in systems and clear instructions
+C. Memorizing more syntax
+D. Working without any tools
+Corectn Answer B
+3. Biggest failure of Vibe Coding?
+A. AI stops responding
+B. Architecture becomes hard to extend
+C. Code runs slow
+D. Fewer comments written
+Correct Answer B
+
+4. Main advantage of using AI CLI agents (like Gemini CLI)?
+A. They replace the developer completely
+B. Handle repetitive tasks so dev focuses on design & problem-solving
+C. Make coding faster but less reliable
+D. Make coding optional
+5. What defines an M-Shaped Developer?
+A. Knows little about everything
+B. Deep in only one field
+C. Deep skills in multiple related domains
+D. Works without AI tools
+Correct Answer C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
