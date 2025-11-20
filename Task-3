@@ -1,0 +1,75 @@
+🌟 PART A — Research Questions (Short 
+
+Answers) 
+
+Q1. What new improvements were introduced in Gemini 3.0? 
+
+Answer: Gemini 3.0 ko bilkul nayi architecture ke sath ground-up build kiya gaya hai, jisse iska performance pichli versions 
+
+ke muqablay me bohot zyada tez, accurate aur reliable ho gaya hai. Ye Sparse MoE model use karta hai jo reasoning, processing 
+
+power aur decision making ko improve karta hai. Ab ye model text, image, audio, video aur code jaise complex multimodal data 
+
+ko zyada samajhdari se process kar sakta hai. Saath hi naye agentic behaviors ki wajah se ye kai tasks khud se perform kar leta hai. 
+
+  
+
+Q2. How does Gemini 3.0 improve coding & automation workflows? 
+
+Answer:Gemini 3.0 programming aur automation workflows me bohot madad karta hai kyunke ye zyada structured, clean aur production-level 
+
+code generate kar sakta hai. Ye poore GUIs, web applications, animations aur complex software structures tak khud create kar sakta hai. 
+
+Naye agentic features ki wajah se ye kai repetitive developer tasks jaise inbox management, automation steps aur execution khud se complete 
+
+karta hai. Iss se developer ki efficiency aur productivity dono improve hoti hain. 
+
+  
+
+Q3. How does Gemini 3.0 improve multimodal understanding? 
+
+Gemini 3.0 ek waqt me multiple tarah ka data—jaise text, images, videos, audio aur complete code repositories—ko process kar sakta hai. 
+
+Iska input context window bohot large hai (1 million tokens tak), jiski wajah se ye poori books, documents ya GitHub repositories ek sath 
+
+samajh sakta hai. Multimodal reasoning improve hone se ye zyada better analysis, clarification aur decision making kar pata hai. 
+
+  
+
+Q4. Name any two developer tools introduced with Gemini 3.0. 
+
+Answer: Gemini 3.0 ke sath kuch nayi developer-focused tools launch kiye gaye, jin me se: 
+
+  
+
+1️⃣ Anti-Gravity IDE 
+
+Google ka naya development environment jo AI-assisted coding aur development ko bohot easy aur powerful bana deta hai. 
+
+  
+
+2️⃣ Gemini Deep Think Model 
+
+Ye ek advance model hai jo complex reasoning tasks aur tough exams me aur behtar performance deta hai. 
+
+  
+
+🌟 PART B — Practical Task (Screenshot 
+
+Required) 
+
+Task: 
+
+You must complete the following steps: 
+
+Update the Gemini 3.0 model 
+
+Using the /model command in Gemini CLI, update the Gemini model to the latest version 
+
+(3.0). 
+
+Note: You do not need to update the CLI itself; only 
+
+ 
+
+ 
